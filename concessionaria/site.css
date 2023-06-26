@@ -62,11 +62,11 @@ margin-left:40px;
 } 
 
 .menu_simple ul li a{
-  float:left;
+  float:none;
   text-decoration:none;
   color:white;
-  padding:10.5px11px;
-  margin-left:100px;
+  padding:10.5px 11px;
+  margin-left: 100px;
   background-color:black;
 }
 
